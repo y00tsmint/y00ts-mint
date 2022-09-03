@@ -1,2 +1,1 @@
-# y00ts-mint
-y00tsmint.com
+# https://y00tsmint.com
